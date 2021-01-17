@@ -1,0 +1,16 @@
+current directory: /Volumes/ssd/developer/rails_tutorial/environment/toy_app/bender/bundle/ruby/2.6.0/gems/racc-1.5.2/ext/racc/cparse
+/Users/up/.rbenv/versions/2.6.6/bin/ruby -I /Users/up/.rbenv/versions/2.6.6/lib/ruby/2.6.0 -r ./siteconf20210117-10212-7oj6xr.rb extconf.rb
+checking for rb_ary_subseq()... yes
+creating Makefile
+
+current directory: /Volumes/ssd/developer/rails_tutorial/environment/toy_app/bender/bundle/ruby/2.6.0/gems/racc-1.5.2/ext/racc/cparse
+make "DESTDIR=" clean
+
+current directory: /Volumes/ssd/developer/rails_tutorial/environment/toy_app/bender/bundle/ruby/2.6.0/gems/racc-1.5.2/ext/racc/cparse
+make "DESTDIR="
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+
+current directory: /Volumes/ssd/developer/rails_tutorial/environment/toy_app/bender/bundle/ruby/2.6.0/gems/racc-1.5.2/ext/racc/cparse
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20210117-10212-phhev2/racc

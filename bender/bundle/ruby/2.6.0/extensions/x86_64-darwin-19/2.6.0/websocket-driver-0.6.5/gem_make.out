@@ -1,0 +1,15 @@
+current directory: /Volumes/ssd/developer/rails_tutorial/environment/toy_app/bender/bundle/ruby/2.6.0/gems/websocket-driver-0.6.5/ext/websocket-driver
+/Users/up/.rbenv/versions/2.6.6/bin/ruby -I /Users/up/.rbenv/versions/2.6.6/lib/ruby/2.6.0 -r ./siteconf20210117-10212-1hvqn96.rb extconf.rb
+creating Makefile
+
+current directory: /Volumes/ssd/developer/rails_tutorial/environment/toy_app/bender/bundle/ruby/2.6.0/gems/websocket-driver-0.6.5/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /Volumes/ssd/developer/rails_tutorial/environment/toy_app/bender/bundle/ruby/2.6.0/gems/websocket-driver-0.6.5/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.bundle
+
+current directory: /Volumes/ssd/developer/rails_tutorial/environment/toy_app/bender/bundle/ruby/2.6.0/gems/websocket-driver-0.6.5/ext/websocket-driver
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 websocket_mask.bundle ./.gem.20210117-10212-2t1xmr
